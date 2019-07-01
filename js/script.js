@@ -56,5 +56,14 @@ $(document).ready(function () {
                 }
             });
         }
-    })
+    });
+
+    // $('.counter').countup(200);
+
+    // var countUp = new CountUp('.counter', 200);
+    // if (!countUp.error) {
+    //     countUp.start();
+    //     } else {
+    //     console.error(countUp.error);
+    //     }
 });
